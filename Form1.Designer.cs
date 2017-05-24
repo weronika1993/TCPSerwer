@@ -73,6 +73,7 @@
             this.button_polacz.TabIndex = 3;
             this.button_polacz.Text = "Połącz";
             this.button_polacz.UseVisualStyleBackColor = true;
+            this.button_polacz.Click += new System.EventHandler(this.button_polacz_Click);
             // 
             // Form1
             // 
